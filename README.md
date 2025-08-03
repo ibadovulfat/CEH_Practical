@@ -12,3 +12,22 @@ This repository contains my personal notes and hands-on practice materials while
 ## ⚠️ Disclaimer
 
 This project is meant for **educational purposes only**. All labs were performed in isolated test environments. Please do not use any of the information here for illegal or unethical activities.
+
+
+---
+
+## 👨‍💻 About Me
+
+I'm Ulfat Ibadov, a penetration tester and cybersecurity mentor currently working with **EC-Council**. My main focus is on offensive security, including red teaming, vulnerability research, and real-world exploitation techniques.
+
+I’ve completed multiple certifications, including:
+- Certified Ethical Hacker (CEH & CEH Practical)
+- Web Application Hacking and Security (W|AHS)
+- Certified Cybersecurity Technician (C|CT)
+- Certified Penetration Testing Specialist (CPTS – HTB Academy)
+
+I’m also an active bug bounty hunter and top-ranked participant on platforms like **TryHackMe** and **Hack The Box**, where I currently rank in the top 1%.
+
+I'm passionate about helping others learn ethical hacking through hands-on labs and mentoring.
+
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
