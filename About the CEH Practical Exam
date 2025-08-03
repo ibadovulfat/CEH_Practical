@@ -1,0 +1,19 @@
+## 🧠 About the CEH Practical Exam
+
+The **Certified Ethical Hacker (CEH) Practical v12** is a hands-on, performance-based exam that tests your real-world ethical hacking and penetration testing skills in a live cyber lab environment.
+
+### 📋 Exam Overview
+- **Title:** Certified Ethical Hacker (Practical) v12  
+- **Challenges:** 20 practical tasks  
+- **Duration:** 6 hours  
+- **Format:** Browser-based iLabs (via Aspen platform)  
+- **Passing Score:** 70% (at least 14 correct answers)  
+- **Internet Access:** Allowed during the exam  
+
+### 💡 What It Tests
+- Network scanning & enumeration  
+- System exploitation & privilege escalation  
+- Web app attacks (SQLi, LFI, file upload, XSS)  
+- Password cracking (Hydra, John)  
+- Steganography, hashing & forensic analysis  
+- Working with SMB, RDP, SSH, ADB, and more  
