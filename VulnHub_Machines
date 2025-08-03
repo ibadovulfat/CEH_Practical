@@ -1,0 +1,83 @@
+## 🧱 Recommended VulnHub Machines for CEH Practical 
+
+These machines were selected based on the topics and tools covered in the latest CEH Practical scenarios:
+
+### 🔰 Beginner-Friendly Labs
+
+- **Mr. Robot (v1)**  
+  Based on the popular TV series. Combines enumeration, WordPress exploitation, and privilege escalation. Great for learning web+Linux basics.
+
+- **Basic Pentesting 1**  
+  Simple Linux box for practicing SSH, RDP brute force, and privilege escalation. Mimics several exam-style questions.
+
+- **Metasploitable 2**  
+  Contains dozens of vulnerable services for testing tools like Nmap, Hydra, SMB, FTP, and Metasploit. Essential for lab familiarity.
+
+- **Kioptrix Series (1–5)**  
+  Classic boxes that cover a wide range of topics from service enumeration to kernel exploits. Good escalation practice.
+
+### 🧪 Intermediate Level Machines
+
+- **DC Series (DC-1 to DC-5)**  
+  Perfect for Active Directory practice. Includes SMB enumeration, password attacks, and privilege escalation.
+
+- **Bulldog 1.0**  
+  Mimics a real Windows environment. Useful for testing RDP login, password cracking, and lateral movement.
+
+- **FristiLeaks 1.3**  
+  Web-based challenges (LFI, weak credentials, steg) with a focus on layered access control and hidden data.
+
+- **Symfonos Series**  
+  Focuses on Linux privilege escalation, local enumeration, and service misconfigurations.
+
+- **VulnOS 2**  
+  Includes vulnerable services, SQL injection, file upload issues, and privilege escalation.
+
+### 🔒 Advanced & Specialized Machines
+
+- **Jefferson**  
+  Complex chain of exploits, including steganography, FTP issues, and tricky privilege escalation. Time-consuming but rewarding.
+
+- **SkyTower**  
+  Emulates a multi-layer enterprise setup: combines web, database, network misconfigs, and Windows auth.
+
+- **SickOS 1.2**  
+  Great for learning manual SQLi, reverse shell crafting, and privilege escalation via cron jobs.
+
+- **PwnLab: Init**  
+  Simulates file upload vulnerabilities, SQLi, and Apache misconfigurations. Solid for CVE hunting with Metasploit.
+
+- **Raven 1 & 2**  
+  OSINT + WordPress + database injection + weak creds. Mimics exam-style multi-stage exploitation.
+
+- **HA: Infinity Stones**  
+  Themed box with multiple entry points, suitable for chaining attacks and simulating exam environments.
+
+- **Brainpan 1**  
+  Simple binary exploitation and reverse engineering — good prep for buffer overflow-style thinking.
+
+---
+
+### ✅ Why these machines?
+
+These VMs map directly to tasks found in CEH Practical like:
+- SMB and RDP brute-forcing (Hydra, smbclient, nmap -p 139/445/3389)
+- Android access via ADB (`adb shell`, `adb pull`, `Phonesploit`)
+- Steganography tools like **Steghide**, **OpenStego**, and **Stegsnow**
+- Hash cracking with **John the Ripper**, **Hashcat**, **CrackStation**, **Hashes.com**
+- Web exploitation with **sqlmap**, **Burp Suite**, and **ZAP**
+- Malware detection using **DIE** and PE file analysis
+- Veracrypt volume cracking and mounting after password discovery
+- Network traffic analysis using **Wireshark** and pcap file filtering
+
+---
+
+### 🛠️ Setup Tips
+- Import VMs in **VirtualBox** or **VMware**.
+- Run alongside **Kali Linux** or **Parrot OS** attacker machine.
+- Create snapshots to restore after each lab.
+- Always document:
+  - IPs
+  - Discovered usernames/passwords
+  - Exploited services and CVEs
+  - Escalation paths
