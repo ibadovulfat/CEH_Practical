@@ -1,0 +1,67 @@
+ 🧪 CEH Practical Exam – TryHackMe Machines Guide
+
+This is a professional reference for CEH Practical preparation. Each practice-style question is mapped to recommended TryHackMe machines for hands-on practice.
+
+---
+
+## Practice-Style Questions & Recommended THM Machines
+
+1. **Scan a given subnet and identify which host is running an outdated web server. Provide the version number.**  
+   Recommended Machines:* Kenobi, Skynet, Vulnversity
+
+2. **Enumerate open SMB ports on a Windows target and extract the NetBIOS hostname and domain.**  
+   Recommended Machines:* Kenobi, Network Services, Steel Mountain, Anonymous
+
+3. **Find the number of Mercury services running on a server by performing targeted port scanning.**  
+   Recommended Machines:* Skynet, Vulnversity
+
+4. **Identify a host with RDP enabled and perform a brute-force attack on it to retrieve the correct credentials.**  
+   Recommended Machines:* Steel Mountain, Blue
+
+5. **Access an Android device via ADB, locate a specific image file, and extract hidden data using steganography.**  
+   Recommended Machines:* Anonymous, Easy Steganography
+
+6. **Calculate the CRC32 checksum of a given file and submit the result.**  
+   Recommended Machines:* Any file-handling challenge (e.g., Vulnversity)
+
+7. **Use OpenVAS or a similar scanner to identify vulnerabilities and report the CVE with the lowest severity.**  
+   Recommended Machines:* Vulnversity, Kenobi
+
+8. **Extract a hidden password from an image file using `steghide` with a known passphrase.**  
+   Recommended Machines:* Easy Steganography, Anonymous, Blog
+
+9. **Perform SQL injection on a given web application and extract user credentials from the database.**  
+   Recommended Machines:* Blog, Simple CTF, Skynet
+
+10. **Crack a password hash stored in a `.txt` file using `john` and a known wordlist.**  
+    Recommended Machines:* Crack the Hash, Overpass, Mr Robot CTF
+
+11. **Connect to an SMB share with discovered credentials and read a specific file from the share.**  
+    Recommended Machines:* Kenobi, Anonymous, Network Services
+
+12. **Identify a Linux machine with SSH access and escalate privileges to root using misconfigurations or weak sudo policies.**  
+    Recommended Machines:* Overpass, Basic Pentesting, Kenobi, Anonymous
+
+13. **Retrieve contents of a hidden file named `imroot.txt` on a compromised Linux machine.**  
+    Recommended Machines:* Anonymous, Kenobi
+
+14. **Analyze a pcap file using Wireshark and determine which host sent the least number of packets to a specific destination.**  
+    Recommended Machines:* Wireshark Room, Forensics-themed rooms
+
+15. **Use a Remote Access Tool (RAT) interface to remotely access a target folder and count the number of files stored inside.**  
+    Recommended Machines:* Steel Mountain, Skynet
+
+16. **Examine a PE (Portable Executable) file using a tool like Detect-It-Easy (DIE) and extract the virtual memory address from the ELF header.**  
+    Recommended Machines:* Reverse Engineering rooms, Malware Analysis rooms
+
+17. **Decrypt a VeraCrypt container using a password retrieved from a cracked hash and access its hidden file.**  
+    Recommended Machines:* Encryption-themed rooms (custom setup may be needed)
+
+18. **Access the DVWA application hosted on a web server and decode a base64-encoded message from the uploaded files.**  
+    Recommended Machines:* DVWA Lab (custom), Blog
+
+19. **Use Aircrack-ng with a captured `.cap` file to recover a WPA password and provide the number of characters in the password.**  
+    Recommended Machines:* Wireless Security room
+
+20. **Investigate an IoT packet capture file and identify the MQTT topic length from a Publish message.**  
+    Recommended Machines:* IoT Security, MQTT-focused rooms
