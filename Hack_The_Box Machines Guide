@@ -1,0 +1,129 @@
+## 🧱 Hack The Box Machines for CEH Practical Preparation
+
+These machines were selected based on the topics and tools covered in the latest CEH Practical scenarios:
+
+### 🔰 Labs
+
+- **Explore** - Android (Easy)  
+  **CEH Domain:** Mobile Security & Exploitation  
+  **Why:** Practice accessing Android devices, enumerating files, and extracting hidden data.  
+
+- **Lame** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation & Privilege Escalation  
+  **Why:** Learn basic Linux enumeration and privilege escalation techniques.  
+
+- **Shocker** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation  
+  **Why:** Practice exploiting outdated services and basic privilege escalation.  
+
+- **Nibbles** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation  
+  **Why:** Beginner-friendly machine for enumeration and privilege escalation.  
+
+- **Bashed** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation  
+  **Why:** Learn file and service enumeration and privilege escalation techniques.  
+
+- **Valentine** - Linux (Easy)  
+  **CEH Domain:** System Hacking  
+  **Why:** Practice exploiting vulnerabilities in web applications and extracting hidden data using steganography.  
+
+- **Beep** - Linux (Easy)  
+  **CEH Domain:** Web Application Exploitation  
+  **Why:** Practice exploiting web application vulnerabilities.  
+
+- **Swagshop** - Linux (Easy)  
+  **CEH Domain:** Web Application Exploitation  
+  **Why:** Learn SQL injection, command injection, and enumeration techniques.  
+
+- **Sense** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation  
+  **Why:** Practice Linux enumeration and privilege escalation techniques.  
+
+- **Knife** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation & Enumeration  
+  **Why:** Learn basic Linux exploitation workflows.  
+
+- **Armageddon** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation & Privilege Escalation  
+  **Why:** Practice exploiting outdated services and privilege escalation vectors.  
+
+- **ScriptKiddie** - Linux (Easy)  
+  **CEH Domain:** Exploitation Techniques  
+  **Why:** Understand basic exploitation methods in a controlled lab environment.  
+
+- **OpenAdmin** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation & Privilege Escalation  
+  **Why:** Learn system enumeration and privilege escalation strategies.  
+
+- **Traverxec** - Linux (Easy)  
+  **CEH Domain:** Linux Exploitation & Privilege Escalation  
+  **Why:** Practice exploiting vulnerabilities in outdated services.  
+
+- **Networked** - Linux (Easy)  
+  **CEH Domain:** Network Enumeration & Exploitation  
+  **Why:** Focus on enumerating services and extracting sensitive information.  
+
+- **Mirai** - Linux (Easy)  
+  **CEH Domain:** IoT & Malware Exploitation  
+  **Why:** Understand IoT vulnerabilities and malware exploitation techniques.  
+
+- **Blunder**  
+  **CEH Domain:** Scanning Networks  
+  **Why:** Practice identifying outdated web servers and determining their version numbers using scanning tools like Nmap.  
+
+- **Bastard**  
+  **CEH Domain:** Enumeration  
+  **Why:** Focus on enumerating open SMB ports on Windows targets and extracting NetBIOS hostnames and domains.  
+
+- **Safe**  
+  **CEH Domain:** Vulnerability Analysis  
+  **Why:** Use tools like OpenVAS to identify vulnerabilities and report CVEs with the lowest severity.  
+
+- **Apocalyst**  
+  **CEH Domain:** Malware Threats  
+  **Why:** Analyze and reverse-engineer malware to understand its behavior and impact.  
+
+- **Haircut**  
+  **CEH Domain:** Cryptography  
+  **Why:** Work with encrypted files and practice decrypting them using various cryptographic techniques.  
+
+- **Delivery**  
+  **CEH Domain:** Social Engineering  
+  **Why:** Simulate social engineering attacks to gain unauthorized access to systems.  
+
+- **Smasher**  
+  **CEH Domain:** Wireless Networks  
+  **Why:** Practice exploiting vulnerabilities in wireless networks and cracking WPA handshakes.  
+
+- **Registry**  
+  **CEH Domain:** Cloud Computing  
+  **Why:** Explore and exploit cloud-based services and understand their security implications.  
+
+- **Monteverde**  
+  **CEH Domain:** Internet of Things (IoT)  
+  **Why:** Identify and exploit vulnerabilities in IoT devices and networks.  
+
+- **Forest**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Practice enumerating domain objects via anonymous LDAP binds and exploiting misconfigurations in Exchange Server.  
+
+- **Active**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Focus on exploiting misconfigurations in Active Directory and gaining unauthorized access to sensitive information.  
+
+- **Reel**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Practice exploiting vulnerabilities in Active Directory environments to escalate privileges.  
+
+- **Mantis**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Focus on exploiting misconfigurations in Active Directory to gain unauthorized access.  
+
+- **Blackfield**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Practice exploiting vulnerabilities in Active Directory environments to escalate privileges.  
+
+- **Search**  
+  **CEH Domain:** Active Directory Enumeration & Exploitation  
+  **Why:** Practice exploiting misconfigurations in Active Directory to gain unauthorized access.  
