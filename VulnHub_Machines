@@ -56,6 +56,9 @@ These machines were selected based on the topics and tools covered in the latest
 - **Brainpan 1**  
   Simple binary exploitation and reverse engineering — good prep for buffer overflow-style thinking.
 
+- **DVWA (Damn Vulnerable Web Application)**  
+  **CEH Domain:** Web Application Security & Exploitation  
+  **Why:** Practice SQL injection, XSS, command injection, file inclusion, and other web vulnerabilities in a safe lab environment.
 ---
 
 ### ✅ Why these machines?
