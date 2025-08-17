@@ -25,9 +25,11 @@ I’ve completed multiple certifications, including:
 - Web Application Hacking and Security (W|AHS)
 - Certified Cybersecurity Technician (C|CT)
 - Certified Penetration Testing Specialist (CPTS – HTB Academy)
+- - Certified Penetration Testing Specialist (**BBH – HTB Academy**)
 
 I’m also an active bug bounty hunter and top-ranked participant on platforms like **TryHackMe** and **Hack The Box**, where I currently rank in the top 1%.
 
 I'm passionate about helping others learn ethical hacking through hands-on labs and mentoring.
 
 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
+- [Portfolio](https://about.surf)
