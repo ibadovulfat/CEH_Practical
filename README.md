@@ -31,5 +31,7 @@ I’m also an active bug bounty hunter and top-ranked participant on platforms l
 
 I'm passionate about helping others learn ethical hacking through hands-on labs and mentoring.
 
-📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
-📎My Portfolio [Portfolio](https://about.surf)
+## 📎 Connect with Me 
+- [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
+- [Portfolio](https://about.surf) 
+- [EC-Council C|EH Pratical Certificate](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=ed2dGj4Z1ySm68ptiidDS5Rw9ELHIbQnb35B90anBck=) 
