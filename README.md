@@ -34,4 +34,4 @@ I'm passionate about helping others learn ethical hacking through hands-on labs 
 ## 📎 Connect with Me 
 - [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
 - [Portfolio](https://about.surf) 
-- [EC-Council C|EH Pratical Certificate](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=ed2dGj4Z1ySm68ptiidDS5Rw9ELHIbQnb35B90anBck=) 
+- [EC-Council C|EH Pratical Certificate](https://aspen.eccouncil.org/VerifyBadge?&type=certification&a=/YLlkQtvVmd+7xqESIJS14R4jt5okTNoTO9WNRpdvO4=) 
