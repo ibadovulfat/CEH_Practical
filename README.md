@@ -32,4 +32,4 @@ I’m also an active bug bounty hunter and top-ranked participant on platforms l
 I'm passionate about helping others learn ethical hacking through hands-on labs and mentoring.
 
 📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/ibadovulfat/)
-- [Portfolio](https://about.surf)
+📎My Portfolio [Portfolio](https://about.surf)
