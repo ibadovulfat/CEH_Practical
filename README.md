@@ -18,14 +18,13 @@ This project is meant for **educational purposes only**. All labs were performed
 
 ##  About Me
 
-I'm Ulfat Ibadov, a penetration tester and cybersecurity mentor currently working with **EC-Council**. My main focus is on offensive security, including red teaming, vulnerability research, and real-world exploitation techniques.
-
 I’ve completed multiple certifications, including:
 - Certified Ethical Hacker (CEH & CEH Practical)
 - Web Application Hacking and Security (W|AHS)
 - Certified Cybersecurity Technician (C|CT)
 - Certified Penetration Testing Specialist (CPTS – HTB Academy)
-- - Certified Penetration Testing Specialist (**BBH – HTB Academy**)
+- Certified Penetration Testing Specialist (BBH – HTB Academy)
+- Certified Penetration Testing Professional (CPENT – AI) – Currently in Preparation 
 
 I’m also an active bug bounty hunter and top-ranked participant on platforms like **TryHackMe** and **Hack The Box**, where I currently rank in the top 1%.
 
